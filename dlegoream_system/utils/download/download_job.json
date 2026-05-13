@@ -1,0 +1,23 @@
+{
+  "jobs": [
+    {
+      "url": "https://youtube.com/watch?v=xxxx",
+      "video": "y",
+      "audio_only": "n",
+      "subtitle": "y",
+      "thumbnail": "y",
+      "playlist": "n",
+      "quality": "best"
+    },
+
+    {
+      "url": "https://vimeo.com/xxxxx",
+      "video": "y",
+      "audio_only": "n",
+      "subtitle": "n",
+      "thumbnail": "n",
+      "playlist": "n",
+      "quality": "1080"
+    }
+  ]
+}
